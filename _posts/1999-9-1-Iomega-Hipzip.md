@@ -3,7 +3,7 @@ layout: post
 title: Iomega Hipzip (circa 1999) 
 ---
 
-[<img src="{{ site.baseurl }}/images/iomega.jpg" alt="Hipzip" style="width: 400px;"/>]({{ site.baseurl }}/)
+<img src="{{ site.baseurl }}/images/iomega.jpg" alt="Hipzip" style="width: 400px;"/>
 
 One of the firsts multi-codec mp3 players from Interactive Objects aka Fullplay Media Systems. The software stack for the Iomega Hipzip, built upon eCos which was called Dadio OS, source code [here](https://github.com/pleasemarkdarkly/iomega_hipzip).
 
