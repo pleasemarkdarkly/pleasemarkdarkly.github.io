@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Publishing the Iomega Hipzip Code
+title: Iomega Hipzip Source Code Released circa 1999 
 ---
 
 [<img src="{{ site.baseurl }}/images/iomega.jpg" alt="Hipzip" style="width: 400px;"/>]({{ site.baseurl }}/)
