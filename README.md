@@ -1,7 +1,17 @@
+# pleasemarkdarkly.github.io
+
+## Todo
+* [ ] Add products and projects via timeline and images on the blog post chronologically
+* [ ] Add research papers
+* [ ] Organize graphics, pdfs, etc
+* [ ] Identify documents to put on IPFS
+
+
+
+
 # Jekyll Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
-
 **Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
 
 - You don't need to touch the command line
