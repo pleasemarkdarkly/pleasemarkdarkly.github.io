@@ -1,8 +1,10 @@
 ---
 layout: page
-title: CV
+title: CV 
 permalink: /cv/
 ---
+
+[Download]({{ site.baseurl }}/uploads/cv.docx)
 
 ### CTO | VP of Research & Development Profile
 **20+ years’ success leading R&D, technical, and engineering innovation for high-growth organizations**

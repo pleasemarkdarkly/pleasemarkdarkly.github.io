@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Greetings internet user, my earthly moniker is Mark.
+<div style="text-align: center"><img src="{{ site.baseurl }}/images/me.jpg" alt="me" style="width: 700px;"/></div>
 
-I am a pusher of buttons physically and metaphorically.  I also click mice, internet tabs, desktop apps, interface with the terminal, converse in messengers, express myself in bitmojis, likes, avoid apps that swipe, draw on napkins, add mustaches to photos, love consumer electronics, read tech news, puruse cookbooks, shop on Amazon, daydream, listen to crime-podcasts, add items to todo.sh, likely much more.  I call the aforementioned activities collectively "life".
+I am a pusher of buttons physically and metaphorically.  
 
-I love computing technology (all spectrums from supercomputers to smartwatches), distributed software, embedded and server hardware, devOps, orchestration, processor design, web app development, and triathlons - also know as Ironmans. Crispr-Cas9 technology is pretty neat too.  In the winter time snowboarding with friends is also a hightlight. I am also interested in  cryptocurrency, concensus mechanisms, zero knowledge proofs, distributed file systems ala Filecoin/IPFS, cryptoeconomics and blockchain applications.
+I love technology; all spectrums from smartwatches to supercomputers, desktop software to web apps, embedded technology, consumer applications, devOps, orchestration, processor design, web apps , and triathlons. Recently, I've been emersed in cryptocurrency, concensus mechanisms, zero knowledge proofs, cryptoeconomics and consumer blockchain applications.
 
-You can contact me to schedule coffee (text number above) or send an email saying "what's up". Or you can use the many social media platforms to "poke", "tweet", "dm", "pm", or "snap" "what's up".  If you have read up to this paragraph then you are an amazing person! Take a moment to remind yourself how much you rock! You rock! 
+You can contact me for coffee or a "what's up" email. Or try any of the social media platforms to "poke", "tweet", "dm", "pm", or "snap" me.  
 
 ### Contact me
 
