@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Digital Stereo Audio Development Platform
+categories: [source code]
+tags: [digital audio]
 ---
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/images/dharma-banner.png" alt="digital audio platform" style="width: 700px;"/></div>

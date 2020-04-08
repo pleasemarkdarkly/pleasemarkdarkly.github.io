@@ -1,6 +1,8 @@
 ---
 layout: post
 title: For the Record to Transcripts
+categories: [source code]
+tags: [FTR, transcripts, AWS, Google, machine learning]
 ---
 
 [For the Record Court Audio to ML transcripts](https://github.com/pleasemarkdarkly/speech-to-text-batch)

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Portable Media Players (1998-2002)
+categories: [source code]
+tags: [digital audio]
 ---
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/images/hipzip.jpg" alt="Hipzip" style="width: 500px;"/></div>

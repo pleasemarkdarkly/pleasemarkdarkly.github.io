@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Natasha Pankina Illustrations
+categories: [source code]
+tags: [wordpress]
 ---
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/images/natasha.png" alt="natasha" style="width: 700px;"/></div>

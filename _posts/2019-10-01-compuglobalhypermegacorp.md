@@ -1,6 +1,8 @@
 ---
 layout: post
 title: MEOW ERC-20 Token
+categories: [source code]
+tags: [blockchain, whiskers, ERC-20]
 ---
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/images/meow1.png" alt="Mr. Whiskers" style="width: 500px;"/></div>

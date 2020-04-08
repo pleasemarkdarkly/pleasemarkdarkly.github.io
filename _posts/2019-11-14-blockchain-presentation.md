@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Blockchain Presentation
+categories: [source code]
+tags: [blockchain, concensus models]
 ---
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/images/nodes.png" alt="nodes" style="width: 400px;"/></div>

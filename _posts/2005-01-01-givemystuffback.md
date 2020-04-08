@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Give Me My Stuff Back
+categories: [websites]
+tags: [amazon]
 ---
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/images/givememystuffback.jpg" alt="givememystuffback" style="width: 500px;"/></div>
