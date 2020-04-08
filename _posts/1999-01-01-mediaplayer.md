@@ -7,7 +7,7 @@ tags: [digital audio]
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/images/hipzip.jpg" alt="Hipzip" style="width: 500px;"/></div>
 
- [IO Dadio Source Code](https://github.com/pleasemarkdarkly/adotcorporation).
+ [IO Dadio Source Code](https://github.com/pleasemarkdarkly/adotcorporation).  [See also Dharma Development Board]({% post_url 1999-06-01-dharma-development %})
 
 In 1998 I was curious why on how to get mp3 to play back on embedded devices. The first 6 months to a year were full of failures. Processors were not powerful enough, storage was expensive, there was no business case. Nonetheless I built a fixed function player from a breadboard in 1998 the below products followed. The entire source code for embedded media players can be found [here](https://github.com/pleasemarkdarkly/adotcorporation). I was lucky enough to work with super smart engineers while I developed business cases and partners. 
 

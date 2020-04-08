@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-08T01:13:30-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mark Phillips</title><subtitle>American Americanist</subtitle><entry><title type="html">Template</title><link href="http://localhost:4000/template/" rel="alternate" type="text/html" title="Template" /><published>2020-04-01T00:00:00-07:00</published><updated>2020-04-01T00:00:00-07:00</updated><id>http://localhost:4000/template</id><content type="html" xml:base="http://localhost:4000/template/">&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/404.jpg&quot; alt=&quot;Placeholder&quot; style=&quot;width: 700px;&quot; /&gt;&lt;/div&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-08T01:25:39-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mark Phillips</title><subtitle>American Americanist</subtitle><entry><title type="html">Template</title><link href="http://localhost:4000/template/" rel="alternate" type="text/html" title="Template" /><published>2020-04-01T00:00:00-07:00</published><updated>2020-04-01T00:00:00-07:00</updated><id>http://localhost:4000/template</id><content type="html" xml:base="http://localhost:4000/template/">&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/404.jpg&quot; alt=&quot;Placeholder&quot; style=&quot;width: 700px;&quot; /&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/pleasemarkdarkly/adotcorporation&quot;&gt;Source Code&lt;/a&gt;.&lt;/p&gt;
 
@@ -7,6 +7,10 @@
 &lt;p&gt;An erat delicata consequat sit, detracto platonem mea ex. Id decore instructior vel, eos ut dicta nostrum oporteat. An nobis evertitur pri, ius veritus noluisse fabellas eu. Mei dolore fierent at, dicta eligendi constituam nam te. An nihil tacimates sit, paulo ridens animal at nec. His nibh ocurreret id.&lt;/p&gt;
 
 &lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/404.jpg&quot; alt=&quot;Placeholder&quot; style=&quot;width: 500px;&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;See also&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/mediaplayer/&quot;&gt;Media Players&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   
@@ -62,15 +66,89 @@
       &lt;a href=&quot;/mediaplayer/&quot;&gt;Portable Media Players (1998-2002)&lt;/a&gt;
     &lt;/li&gt;
   
-&lt;/ul&gt;</content><author><name></name></author><category term="template" /><summary type="html"></summary></entry><entry><title type="html">Natasha Pankina Illustrations</title><link href="http://localhost:4000/natasha-pankina/" rel="alternate" type="text/html" title="Natasha Pankina Illustrations" /><published>2019-12-01T00:00:00-08:00</published><updated>2019-12-01T00:00:00-08:00</updated><id>http://localhost:4000/natasha-pankina</id><content type="html" xml:base="http://localhost:4000/natasha-pankina/">&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/natasha.png&quot; alt=&quot;natasha&quot; style=&quot;width: 700px;&quot; /&gt;&lt;/div&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;source code&lt;/h3&gt;
+&lt;ul&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/template/&quot;&gt;Template&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/natasha-pankina/&quot;&gt;Natasha Pankina Illustrations&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/blockchain-presentation/&quot;&gt;Blockchain Presentation&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/compuglobalhypermegacorp/&quot;&gt;MEOW ERC-20 Token&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/dotfiles/&quot;&gt;dotfiles&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/ftr-transcripts/&quot;&gt;For the Record to Transcripts&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/dharma-development/&quot;&gt;Digital Stereo Audio Development Platform&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/mediaplayer/&quot;&gt;Portable Media Players (1998-2002)&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+
+&lt;h3&gt;websites&lt;/h3&gt;
+&lt;ul&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/givemystuffback/&quot;&gt;Give Me My Stuff Back&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+
+&lt;h3&gt;spot&lt;/h3&gt;
+&lt;ul&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/spot/&quot;&gt;SPOT and MSN Direct&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+
+&lt;h3&gt;devices&lt;/h3&gt;
+&lt;ul&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/spot/&quot;&gt;SPOT and MSN Direct&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+
+&lt;h3&gt;digital media&lt;/h3&gt;
+&lt;ul&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/modpod/&quot;&gt;Greenplay Format&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+
+&lt;h3&gt;forensics&lt;/h3&gt;
+&lt;ul&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/mac-apt/&quot;&gt;docker_mac_apt&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+
+&lt;h3&gt;data mining&lt;/h3&gt;
+&lt;ul&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/wsdot/&quot;&gt;WSDOT Collision Predictions&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+
+&lt;h3&gt;template&lt;/h3&gt;
+&lt;ul&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/template/&quot;&gt;Template&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;</content><author><name></name></author><category term="template" /><summary type="html"></summary></entry><entry><title type="html">Natasha Pankina Illustrations</title><link href="http://localhost:4000/natasha-pankina/" rel="alternate" type="text/html" title="Natasha Pankina Illustrations" /><published>2019-12-01T00:00:00-08:00</published><updated>2019-12-01T00:00:00-08:00</updated><id>http://localhost:4000/natasha-pankina</id><content type="html" xml:base="http://localhost:4000/natasha-pankina/">&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/natasha.png&quot; alt=&quot;natasha&quot; style=&quot;width: 700px;&quot; /&gt;&lt;/div&gt;
 
 &lt;p&gt;I had the pleasure of working with &lt;a href=&quot;https://natasha-pankina.com&quot;&gt;Natasha Pankina Illustrations&lt;/a&gt; for a month to build her own online illustrations store.  With tens of thousands of stock vectors, she needed a way to house, encode, format, watermark, fingerprint, and merchandise her works of art. The result is a highly customized Wordpress e-commerce store.  She has an easy to use upload her vectors. The site automatically processes the EXIF data as does Shutterstock to set all the store variables, categories, and licenses.  The system ingests the content, autocreates all the online resources, and license formats, and certain product queues allow for seasonal banner ads to automatically rotate in for merchandising. On the backend, is Glusterfs mounted on to a Docker Swarm, ready to scale, as demand requires.  What are you waiting for? Buy something!&lt;/p&gt;
 
-&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/natasha-2.png&quot; alt=&quot;natasha misc&quot; style=&quot;width: 700px;&quot; /&gt;&lt;/div&gt;</content><author><name></name></author><category term="wordpress" /><summary type="html"></summary></entry><entry><title type="html">Blockchain Presentation</title><link href="http://localhost:4000/blockchain-presentation/" rel="alternate" type="text/html" title="Blockchain Presentation" /><published>2019-11-14T00:00:00-08:00</published><updated>2019-11-14T00:00:00-08:00</updated><id>http://localhost:4000/blockchain-presentation</id><content type="html" xml:base="http://localhost:4000/blockchain-presentation/">&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/nodes.png&quot; alt=&quot;nodes&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/natasha-2.png&quot; alt=&quot;natasha misc&quot; style=&quot;width: 700px;&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;/compuglobalhypermegacorp/&quot;&gt;See also Compuglobalhypermegacorp&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="wordpress" /><summary type="html"></summary></entry><entry><title type="html">Blockchain Presentation</title><link href="http://localhost:4000/blockchain-presentation/" rel="alternate" type="text/html" title="Blockchain Presentation" /><published>2019-11-14T00:00:00-08:00</published><updated>2019-11-14T00:00:00-08:00</updated><id>http://localhost:4000/blockchain-presentation</id><content type="html" xml:base="http://localhost:4000/blockchain-presentation/">&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/nodes.png&quot; alt=&quot;nodes&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/div&gt;
 
 &lt;p&gt;I was asked to present at Shenzhen’s Blockchain Week Conference. &lt;a href=&quot;/uploads/20191114_Blockchains.pptx&quot;&gt;Here&lt;/a&gt; are the slides.  I review the typees of concensus models which are out there.&lt;/p&gt;
 
-&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/shenzhen-blockchain-wk.png&quot; alt=&quot;Shenzhen Blockchain Week&quot; style=&quot;width: 300px;&quot; /&gt;&lt;/div&gt;</content><author><name></name></author><category term="blockchain" /><category term="concensus models" /><summary type="html"></summary></entry><entry><title type="html">MEOW ERC-20 Token</title><link href="http://localhost:4000/compuglobalhypermegacorp/" rel="alternate" type="text/html" title="MEOW ERC-20 Token" /><published>2019-10-01T00:00:00-07:00</published><updated>2019-10-01T00:00:00-07:00</updated><id>http://localhost:4000/compuglobalhypermegacorp</id><content type="html" xml:base="http://localhost:4000/compuglobalhypermegacorp/">&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/meow1.png&quot; alt=&quot;Mr. Whiskers&quot; style=&quot;width: 500px;&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/shenzhen-blockchain-wk.png&quot; alt=&quot;Shenzhen Blockchain Week&quot; style=&quot;width: 300px;&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;/compuglobalhypermegacorp/&quot;&gt;See also Mr. Whiskers&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="blockchain" /><category term="concensus models" /><summary type="html"></summary></entry><entry><title type="html">MEOW ERC-20 Token</title><link href="http://localhost:4000/compuglobalhypermegacorp/" rel="alternate" type="text/html" title="MEOW ERC-20 Token" /><published>2019-10-01T00:00:00-07:00</published><updated>2019-10-01T00:00:00-07:00</updated><id>http://localhost:4000/compuglobalhypermegacorp</id><content type="html" xml:base="http://localhost:4000/compuglobalhypermegacorp/">&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/meow1.png&quot; alt=&quot;Mr. Whiskers&quot; style=&quot;width: 500px;&quot; /&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://compuglobalhypermegacorp.com&quot;&gt;Compuglobalhypermegacorp&lt;/a&gt;’s CEO Mr. Whiskers’s World Domination Token, the MEOW Coin.  My friends were asking me about what cryptocurrency they should invest in, with many of them lementing they already missed the bus. To make some of them feel better, I created MEOW so I could give all my friends millions of tokens. In fact, you don’t have to be a friend, I’ll send you a bunch of MEOWs, just ping me.&lt;/p&gt;
 
@@ -114,7 +192,9 @@
 
 &lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/lvs.png&quot; alt=&quot;LVS&quot; style=&quot;width: 700px;&quot; /&gt;&lt;/div&gt;
 
-&lt;p&gt;In-store listening and viewing station that uses Windows Media technology to store and stream content; lets shoppers scan and preview any CD or DVD in retailer’s catalog and enables use cross merchandising, loyalty programs, point-of-sale integration, and chain-wide “try and buy”programs. Deployed in more than 600 stores and 13,000 stations (as of 2010).&lt;/p&gt;</content><author><name></name></author><category term="retail" /><category term="greenplay" /><category term="SD-cards" /><summary type="html">With the vision of creating an in-store and at home experience for content distribution. Greenplay was an end-to-end system with content licensing; all North American music and Warner Brothers/Paramount video content, merchandising in-store DVD/HD-DVD/Bluray product sales, music downloads, and at home streaming content on Greenplay set top boxes. The below in-store PODs and at home players were developed.</summary></entry><entry><title type="html">SPOT and MSN Direct</title><link href="http://localhost:4000/spot/" rel="alternate" type="text/html" title="SPOT and MSN Direct" /><published>2005-01-01T00:00:00-08:00</published><updated>2005-01-01T00:00:00-08:00</updated><id>http://localhost:4000/spot</id><content type="html" xml:base="http://localhost:4000/spot/">&lt;p&gt;Microsoft’s Research &lt;a href=&quot;https://en.wikipedia.org/wiki/Smart_Personal_Objects_Technology&quot;&gt;Smart Personal Objects&lt;/a&gt; and the MSN Direct Network was in development from 2001 until launch in 2005. Showcased at Comdex in 2002. From 2001 through 2005, we worked on many aspects of the systemn.&lt;/p&gt;
+&lt;p&gt;In-store listening and viewing station that uses Windows Media technology to store and stream content; lets shoppers scan and preview any CD or DVD in retailer’s catalog and enables use cross merchandising, loyalty programs, point-of-sale integration, and chain-wide “try and buy”programs. Deployed in more than 600 stores and 13,000 stations (as of 2010).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/mediaplayer/&quot;&gt;Media Devices&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="retail" /><category term="greenplay" /><category term="SD-cards" /><summary type="html">With the vision of creating an in-store and at home experience for content distribution. Greenplay was an end-to-end system with content licensing; all North American music and Warner Brothers/Paramount video content, merchandising in-store DVD/HD-DVD/Bluray product sales, music downloads, and at home streaming content on Greenplay set top boxes. The below in-store PODs and at home players were developed.</summary></entry><entry><title type="html">SPOT and MSN Direct</title><link href="http://localhost:4000/spot/" rel="alternate" type="text/html" title="SPOT and MSN Direct" /><published>2005-01-01T00:00:00-08:00</published><updated>2005-01-01T00:00:00-08:00</updated><id>http://localhost:4000/spot</id><content type="html" xml:base="http://localhost:4000/spot/">&lt;p&gt;Microsoft’s Research &lt;a href=&quot;https://en.wikipedia.org/wiki/Smart_Personal_Objects_Technology&quot;&gt;Smart Personal Objects&lt;/a&gt; and the MSN Direct Network was in development from 2001 until launch in 2005. Showcased at Comdex in 2002. From 2001 through 2005, we worked on many aspects of the systemn.&lt;/p&gt;
 
 &lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/spot.jpg&quot; alt=&quot;MSN Direct&quot; style=&quot;width: 500px;&quot; /&gt;&lt;/div&gt;
 
@@ -126,4 +206,6 @@
 
 &lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/datacard.jpg&quot; alt=&quot;datacard&quot; style=&quot;width: 500px;&quot; /&gt;&lt;/div&gt;
 
-&lt;p&gt;Credit card sized PDA with touch pad.&lt;/p&gt;</content><author><name></name></author><category term="spot" /><category term="microsoft" /><category term="msn direct" /><summary type="html">Microsoft’s Research Smart Personal Objects and the MSN Direct Network was in development from 2001 until launch in 2005. Showcased at Comdex in 2002. From 2001 through 2005, we worked on many aspects of the systemn.</summary></entry></feed>
+&lt;p&gt;Credit card sized PDA with touch pad.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/mediaplayer/&quot;&gt;See also Media Player&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="spot" /><category term="microsoft" /><category term="msn direct" /><summary type="html">Microsoft’s Research Smart Personal Objects and the MSN Direct Network was in development from 2001 until launch in 2005. Showcased at Comdex in 2002. From 2001 through 2005, we worked on many aspects of the systemn.</summary></entry></feed>

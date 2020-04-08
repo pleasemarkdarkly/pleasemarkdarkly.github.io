@@ -7,7 +7,7 @@ tags: [digital audio]
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/images/dharma-banner.png" alt="digital audio platform" style="width: 700px;"/></div>
 
-Combining the experience of all the peicemeal portable audio devices and the lack of digital media systems for the stereo system, we needed a platform to develop our [Digital Media Operating System](https://github.com/pleasemarkdarkly/adotcorporation). See also [Media Players](% link _posts/1999-01-01-mediaplayer.md %).
+Combining the experience of all the peicemeal portable audio devices and the lack of digital media systems for the stereo system, we needed a platform to develop our [Digital Media Operating System](https://github.com/pleasemarkdarkly/adotcorporation). [See also Media Players]({% post_url 1999-01-01-mediaplayer %})
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/images/dharma.jpg" alt="digital audio platform" style="width: 700px;"/></div>
 

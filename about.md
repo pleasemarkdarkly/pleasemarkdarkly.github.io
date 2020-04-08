@@ -15,3 +15,6 @@ You can contact me for coffee or a "what's up" email. Or try any of the social m
 ### Contact me
 
 [pretty at pleasemarkdarkly dot com](mailto:pretty@pleasemarkdarkly.com)
+
+
+Updated as of {{ site.time | date_to_string: "ordinal", "US" }}
