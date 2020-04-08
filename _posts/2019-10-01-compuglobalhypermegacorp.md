@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MEOW Coin
+title: MEOW ERC-20 Token
 ---
 
 <img src="{{ site.baseurl }}/images/whitepaper001.jpg" alt="white paper" style="width: 500px;"/>
