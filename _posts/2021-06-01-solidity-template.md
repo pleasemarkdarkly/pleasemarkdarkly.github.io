@@ -6,7 +6,6 @@ tags: [Solidity, Hardhat, Template]
 ---
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/images/solidity-template.png" alt="Solidity Template" style="width: 350px;"/></div>
-<div style="text-align: center"><h1>Solidity Development Template</h1></div>
 
 # [Solidity Template](https://github.com/pleasemarkdarkly/solidity-ts-template)
 
