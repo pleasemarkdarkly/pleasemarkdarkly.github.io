@@ -5,9 +5,9 @@ categories: [Github]
 tags: [Solidity, Hardhat, Template]
 ---
 
-# [Solidity](https://github.com/pleasemarkdarkly/solidity-ts-template/blob/main/solidity-cheatsheet.md) Template
+# [Solidity Template](https://github.com/pleasemarkdarkly/solidity-ts-template)
 
-![Solidity Hardhat Typescript Waffle Graphic](images/solidity-template.png)
+[Solidity Template]![Solidity Hardhat Typescript Waffle Graphic](images/solidity-template.png)(https://github.com/pleasemarkdarkly/solidity-ts-template)
 
 Includes:
 
