@@ -8,7 +8,9 @@ tags: [QRCodes, generator, scanner]
 <div style="text-align: center"><img src="{{ site.baseurl }}/images/qr-code-reader.jpg" alt="qr-code-reader" style="width: 350px;"/></div>
 
 # Svelte Components for QR Code Activities
-A key feature for a crypto-currency site I worked on was the ability for users to easily work with multi-signature wallets. Usually this includes using Qr-Codes through a browser. This proved challenging as Chrome-Safari-desktop-mobile were picky about a number of details which I will avoid here. Disaster was averted and I was able to create usable Svelte Components from libraries for both reading and generating Qr-Codes available [here.](https://github.com/pleasemarkdarkly/svelte-qr-reader-writer)
+A key feature for a crypto-currency site I worked on was the ability for users to easily work with multi-signature wallets using their mobile camera. As the site was a web application, there were various compatibility issues to consider. After sorting through various Chrome-Safari-desktop-mobile issues, disaster was averted and I was able to compose several Svelte Components which enabled both scanning and generating Qr-Codes, those libraries are available [here.](https://github.com/pleasemarkdarkly/svelte-qr-reader-writer)
+
+Generally, the components are created in the following manner. You may want to expose additional events. When I have time to properly create libraries, I envision implementing an event model.
 
 QR code scanning:
 
