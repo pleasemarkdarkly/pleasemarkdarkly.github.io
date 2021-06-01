@@ -7,7 +7,7 @@ tags: [Solidity, Hardhat, Template]
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/images/solidity-template.png" alt="Solidity Template" style="width: 350px;"/></div>
 
-# [Solidity Template](https://github.com/pleasemarkdarkly/solidity-ts-template)
+Visit [Github](https://github.com/pleasemarkdarkly/solidity-ts-template) to clone or use the below described Solidity Template. Enjoy! Pull requests or feedback welcome!
 
 Includes:
 
