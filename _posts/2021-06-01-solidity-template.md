@@ -5,9 +5,10 @@ categories: [Github]
 tags: [Solidity, Hardhat, Template]
 ---
 
-# [Solidity Template](https://github.com/pleasemarkdarkly/solidity-ts-template)
+<div style="text-align: center"><img src="{{ site.baseurl }}/images/solidity-template.png" alt="Solidity Template" style="width: 350px;"/></div>
+<div style="text-align: center"><h1>Solidity Development Template</h1></div>
 
-[Solidity Template]![Solidity Hardhat Typescript Waffle Graphic](images/solidity-template.png)(https://github.com/pleasemarkdarkly/solidity-ts-template)
+# [Solidity Template](https://github.com/pleasemarkdarkly/solidity-ts-template)
 
 Includes:
 
