@@ -8,11 +8,6 @@ permalink: /cv/
 
 _Highly skilled Architect and Subject Matter Expert with proven expertise in information technology consulting, architecture and design, custom development, and integration. In-depth experience in all aspects of a project lifecycle, initiating transformative programs, emerging technologies & enterprise architecture. Integrally involved in direction, development and corporate growth. Drive high-return IT initiatives across all business verticals (BU). Collaborate closely with internal and external stakeholders. Trained leader able to mentor and motivate large global teams to meet – and exceed – corporate goals. Proven experience developing, deploying and evaluating systems aimed at improving quality and efficiency, delivering on time and within budget. Highly skilled aligning end-user needs with long-term resolutions to complex IT challenges._
 
-## Highlights of Technical Expertise
-*   Typescript, Express, NodeJS, Docker
-*   Solidity, Hardhat, Ethers.js
-*   SQL/NoSQL MongoDb, Firebase
-*   GCP, AWS, Digital Ocean
 ## Highlights of Management Expertise
 *	Strategic & Tactical Infrastructure Planning
 *	Vendor & Supplier Relationship Management
@@ -24,7 +19,11 @@ _Highly skilled Architect and Subject Matter Expert with proven expertise in inf
 *	Product/Project Management Over 30 Products
 *	Exceeding Service-level Agreements
 *	Regulatory Compliance CE, UL
-
+## Highlights of Technical Expertise
+*   Typescript, Express, NodeJS, Docker
+*   Solidity, Hardhat, Ethers.js
+*   SQL/NoSQL MongoDb, Firebase
+*   GCP, AWS, Digital Ocean
 ### Career Experience
 
 **Confidential Client _USA_**
@@ -34,11 +33,13 @@ Designed, managed, developed and launched a cloud based mission critical busines
 
 **SOLUTIONS ARCHITECT/SENIOR DEVELOPER (2020 to Present)**
 
-Delivered Ethereum Smart Contracts for ERC-20, ICO, AirDrops, and Governance. Delivered complete a number of GCP hosted applications on-time, under budget, prior to and through the pandemic. Implemented internal credit and background research application using data feeds from the credit agencies; subsequently negotiated and executed favorable licensing terms to client.
+Delivered Ethereum Smart Contracts for Tokens, ICO, AirDrops, and Governance. Delivered complete a number of GCP hosted applications on-time, under budget, prior to and through the pandemic. Implemented internal credit and background research application using data feeds from the credit agencies; subsequently negotiated and executed favorable licensing terms to client.
 
+* Developed client management IVR and outbound voice-based questionnaire cloud application using Firebase, GCP.
 * Developed multi-signature contract library with mobile browser support using [Svelte and Firebase.](https://github.com/pleasemarkdarkly/svelte-qr-reader-writer)
 * Developed functional application prototype 2-weeks after gathering key requirements from stake holders.
 * Authored system architecture, designed user interface, and lead team of engineers.
+* Authored computer forensic expert opinions for various legal cases involving computer and mobile phone tampering; location triangulation; bit torrent and blockchain governance.
 
 ## NVMI Blockchain and PlatON.Network, _Shenzhen, China and Hong Kong, Hong Kong_
 
@@ -83,7 +84,6 @@ SOFTWARE ARCHITECT(1) -  Microsoft Corporation, _Bellevue, WA. USA_
 
 SOFTWARE ENGINEER   -  Saltmine Creative, _Seattle, WA. USA_
 ## PRODUCTS AND PROJECTS
-*   Venture Capital Governance Token
 *   [World Domination MEOW ERC-20 Token. Blockchain, Blockchain Developer](https://github.com/pleasemarkdarkly/proof_of_meow/blob/master/World_Domination_MEOW.sol)
 *   [Natasha Pankina Illustrations,  E-commerce, Full Stack Developer](https://www.natasha-pankina.com)
 *   [macOS Artifact Parsing Tool. Open Source Forensic Software, Back-End Developer](https://github.com/ydkhatri/mac_apt)
