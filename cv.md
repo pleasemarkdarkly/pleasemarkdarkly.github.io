@@ -18,24 +18,20 @@ _Highly skilled Architect and Subject Matter Expert with proven expertise in inf
 *	Management Development Programs
 *	Product/Project Management Over 30 Products
 *	Exceeding Service-level Agreements
-*	Regulatory Compliance CE, UL
-## Highlights of Technical Expertise
-*   Typescript, Express, NodeJS, Docker
-*   Solidity, Hardhat, Ethers.js
-*   SQL/NoSQL MongoDb, Firebase
-*   GCP, AWS, Digital Ocean
+
+_Technical highlights outlined below_
 ### Career Experience
 
 **Confidential Client _USA_**
 
-Technologies: Typescript, NodeJS, Solidity, Hardhat, Firebase, Docker, MongoDb, GCP, Twilio API, Sendgrid API, Figma.
+Technologies: Typescript, NodeJS, Solidity, Hardhat, ethers.js, web3.js, Firebase, Docker, MongoDb, GCP, Twilio API, Sendgrid API, Figma
 Designed, managed, developed and launched a cloud based mission critical business application.
 
 **SOLUTIONS ARCHITECT/SENIOR DEVELOPER (2020 to Present)**
 
 Delivered Ethereum Smart Contracts for Tokens, ICO, AirDrops, and Governance. Delivered complete a number of GCP hosted applications on-time, under budget, prior to and through the pandemic. Implemented internal credit and background research application using data feeds from the credit agencies; subsequently negotiated and executed favorable licensing terms to client.
 
-* Developed client management IVR and outbound voice-based questionnaire cloud application using Firebase, GCP.
+* Developed [client management IVR and outbound voice-based questionnaire cloud application](https://github.com/pleasemarkdarkly/firedialer-example) using Firebase, GCP.
 * Developed multi-signature contract library with mobile browser support using [Svelte and Firebase.](https://github.com/pleasemarkdarkly/svelte-qr-reader-writer)
 * Developed functional application prototype 2-weeks after gathering key requirements from stake holders.
 * Authored system architecture, designed user interface, and lead team of engineers.
@@ -80,13 +76,14 @@ Monetized company's [intellectual property](https://pleasemarkdarkly.github.io/p
 *   [Designed and developed C++ source code for embedded digital media players](https://github.com/pleasemarkdarkly/adotcorporation).
 
 ## ADDITIONAL EXPERIENCE
-SOFTWARE ARCHITECT(1) -  Microsoft Corporation, _Bellevue, WA. USA_
+SOFTWARE ARCHITECT <sup id='footnote-001'>[1](#footnote-001)</sup> -  Microsoft Corporation, _Bellevue, WA. USA_
 
 SOFTWARE ENGINEER   -  Saltmine Creative, _Seattle, WA. USA_
+
 ## PRODUCTS AND PROJECTS
 *   [World Domination MEOW ERC-20 Token. Blockchain, Blockchain Developer](https://github.com/pleasemarkdarkly/proof_of_meow/blob/master/World_Domination_MEOW.sol)
 *   [Natasha Pankina Illustrations,  E-commerce, Full Stack Developer](https://www.natasha-pankina.com)
-*   [macOS Artifact Parsing Tool. Open Source Forensic Software, Back-End Developer](https://github.com/ydkhatri/mac_apt)
+*   [macOS Artifact Parsing Tool. Open Source Forensic Software, Back-End Developer](https://github.com/markedphillips/docker_mac_apt)
 *   [U.S. Security and Exchange Commission NLP Analysis. Hedge Fund Web App., Architect](https://github.com/pleasemarkdarkly/sec_parser)
 *   [GreenPlay Audio Video Format. Format & Rights Management Development, Architect, Business Development](https://github.com/pleasemarkdarkly/adotcorporation)
 *   MSN Direct Watch/Microsoft SPOT. Consumer Electronics, ASIC and Manufacturing, Architect
@@ -109,4 +106,4 @@ BACHELOR OF ARTS IN COMPARATIVE HISTORY OF IDEAS, _Architecture Design and Compu
 *   DevOps: CGP, AWS, DigitalOcean, Docker, ELK
 *   Embedded Systems: Linux, eCos, Xilinx, TinyCLR(MS Research Custom ASIC), ARM Architecture, Manufacturing
 
-1. I was a consultant to Microsoft Research and various other divisions between 1998-2006.
+<a name="footnote-001">1</a>. Vendor/Consultant to Microsoft Research, and other divisions between 1998-2006.
