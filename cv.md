@@ -4,6 +4,8 @@ title: CV
 permalink: /cv/
 ---
 
+<a href="{{ site.baseurl }}/uploads/20210616-Phillips-Resume.pdf">Updated PDF Resume</a>
+
 **20+ years’ success leading R&D, technical, and engineering innovation for high-growth organizations**
 
 _Highly skilled Architect and Subject Matter Expert with proven expertise in information technology consulting, architecture and design, custom development, and integration. In-depth experience in all aspects of a project lifecycle, initiating transformative programs, emerging technologies & enterprise architecture. Integrally involved in direction, development and corporate growth. Drive high-return IT initiatives across all business verticals (BU). Collaborate closely with internal and external stakeholders. Trained leader able to mentor and motivate large global teams to meet – and exceed – corporate goals. Proven experience developing, deploying and evaluating systems aimed at improving quality and efficiency, delivering on time and within budget. Highly skilled aligning end-user needs with long-term resolutions to complex IT challenges._
